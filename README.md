@@ -8,4 +8,6 @@ If you'd like to contribute your own chat history, Email here-> **liushur6688@gm
 
 
 ## Web Development
+|Title|Desc|Link|
+|:---:|:---|:---:|
 |Afilmory|Afilmory is a modern React + TypeScript photo gallery that syncs photos from S3 or GitHub, featuring WebGL rendering, responsive layout, EXIF display, and multi-language support.|[Github](https://github.com/Afilmory/Afilmory)| 
